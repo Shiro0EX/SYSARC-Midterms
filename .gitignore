@@ -2,4 +2,8 @@
 
 .env
 
+<<<<<<< HEAD
 package-lock.json
+=======
+package-lock.json
+>>>>>>> 10d05f9b096a2b1c868ac8a1428aea61b77311d4
